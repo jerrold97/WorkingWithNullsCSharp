@@ -1,0 +1,5 @@
+c:\users\kt-jerroldversoza\documents\visual studio 2015\Projects\GameConsole\GameConsole\bin\Debug\GameConsole.pdb
+c:\users\kt-jerroldversoza\documents\visual studio 2015\Projects\GameConsole\GameConsole\obj\Debug\GameConsole.csprojResolveAssemblyReference.cache
+c:\users\kt-jerroldversoza\documents\visual studio 2015\Projects\GameConsole\GameConsole\obj\Debug\GameConsole.pdb
+c:\users\kt-jerroldversoza\documents\visual studio 2015\Projects\GameConsole\GameConsole\bin\Debug\GameConsole.exe
+c:\users\kt-jerroldversoza\documents\visual studio 2015\Projects\GameConsole\GameConsole\obj\Debug\GameConsole.exe
